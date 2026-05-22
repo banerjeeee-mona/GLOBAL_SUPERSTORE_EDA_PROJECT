@@ -1,8 +1,16 @@
-# GLOBAL_SUPERSTORE_EDA_PROJECT
+# GLOBAL SUPERSTORE SALES ANALYTICS DASHBOARD
 
 ## Project Overview
 
-This project presents a comprehensive data analysis of the "Global SuperStore" dataset, aiming to uncover key business insights related to sales, profitability, and customer behavior across different regions and product categories. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization to identify trends, performance bottlenecks, and opportunities for business improvement.
+An interactive Business Intelligence dashboard developed using Streamlit, Pandas, and Plotly for analyzing retail sales performance and generating business insights from the Global Superstore dataset.
+
+The dashboard helps analyze:
+Sales performance
+Profit trends
+Regional analysis
+Product performance
+Discount impact
+Monthly sales trends
 
 ## Key Features & Analysis
 
@@ -13,20 +21,33 @@ This project presents a comprehensive data analysis of the "Global SuperStore" d
 * **Geographical Performance:** Visualized sales and profit distribution across various countries and regions to identify top-performing and underperforming areas.
 * **Interactive Visualizations:** Utilized libraries like Matplotlib, Seaborn, and potentially Plotly (if used) to create compelling and interactive data visualizations.
 
+## Features
+Interactive dashboard using Streamlit
+Dynamic filtering by Region and Category
+KPI metrics visualization
+Sales trend analysis
+Profit distribution analysis
+Top-selling products analysis
+Discount vs Profit relationship visualization
+Real-time business insights
+
+## Tech Stack
+Python
+Pandas
+Streamlit
+Plotly Express
+
+## Dashboard Visualizations
+Sales by Region
+Profit by Category
+Discount vs Profit Analysis
+Monthly Sales Trend
+Top 10 Best Selling Products
+
 ## Dataset
 
 The analysis is based on the **Global SuperStore Dataset**, a publicly available dataset containing sales transactions across various product categories and regions.
 * (https://www.kaggle.com/datasets/kashishkhurana/global-superstore-dataset-2016))*
-
-## Tools and Technologies Used
-
-* **Python:** Programming language for data analysis.
-* **Jupyter Notebook:** For interactive coding and analysis.
-* **Pandas:** Data manipulation and analysis.
-* **NumPy:** Numerical operations.
-* **Matplotlib:** Static data visualization.
-* **Seaborn:** Enhanced statistical data visualization.
-
 
 ## Detailed Project Report
 
