@@ -53,7 +53,7 @@ The analysis is based on the **Global SuperStore Dataset**, a publicly available
 
 For a more in-depth understanding of the project's context, methodology, detailed findings, and strategic recommendations, please refer to the full **Project Report**:
 
-* https://drive.google.com/file/d/1qhnV5Frg1YrJBNTys0P3JZOts8EJ3AcF/view?usp=drive_link
+* (https://drive.google.com/file/d/1VmdoCB8waHUf1CiT1W7AKgvSfNp0VBf7/view?usp=drive_link)
 
 ## Key Insights 
 
